@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360411475845",
+    "project_id": "communehub-180d9",
+    "storage_bucket": "communehub-180d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360411475845:android:51f040d4e1f60c4a479eec",
+        "android_client_info": {
+          "package_name": "com.example.communehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9_W7kZfwa8M9ABjenCQBmIyBpu9bq-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
